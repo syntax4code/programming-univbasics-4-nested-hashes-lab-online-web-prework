@@ -60,7 +60,7 @@ end
 def adding_matz
 adding_matz
 :yukihiro_matsumoto =>{
-          :known_for => "COBOL",
+          :known_for => "Ruby",
           :languages => ["COBOL", "FORTRAN"]
 # add the following information to the top level of programmer_hash
 # :yukihiro_matsumoto => {
